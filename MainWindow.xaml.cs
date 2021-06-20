@@ -32,7 +32,7 @@ namespace WeatherDesktopApp
 
 
         public string Location = "Praha";
-        private string APIKey = "f4cdb9a4d3badec1ff1423c4a5fba527";
+        private string APIKey = "";
 
         private Units UnitsChoice = Units.metric;
         private Lang LangChoice = Lang.en;
